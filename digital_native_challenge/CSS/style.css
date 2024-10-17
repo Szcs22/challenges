@@ -1,19 +1,17 @@
-#form {
+@import url("components/submit-button.css");
+
+form {
     background-color: rgb(137,200,46);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     border-radius: 10px;
     border: 3px solid rgb(60,60,59);
     padding: 20px;
     margin: 20px;
+    font-size: 11px;
 }
 
-h1{
+label {
     color: rgb(60,60,59);
     font-size: 11px;
 }
 
-#button {
-    border-radius: 5px;
-    background-color: rgb(231,0,100);
-    border: 1px solid rgb(60,60,59);
-}

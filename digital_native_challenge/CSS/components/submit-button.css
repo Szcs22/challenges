@@ -1,0 +1,8 @@
+#submit-button {
+    border-radius: 5px;
+    background-color: rgb(231,0,100);
+    border: 1px solid rgb(60,60,59);
+    color: rgb(60,60,59);
+    font-size: 11px;
+    margin-top: 5px;
+}
